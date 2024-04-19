@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+//this line is called shabang,it tells the OS for the node js
 //import the "inquirer" module,which is command line interface for Node js,
 import inquirer from "inquirer";
 //Declare a constant 'answers' and assign it to the result of inquirer.prompt function
